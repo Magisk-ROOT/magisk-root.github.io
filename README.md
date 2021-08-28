@@ -45,9 +45,9 @@ II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9
 
 友情推广 ：
 
+<a href="https://supersuroot.github.io/" target="_blank" title="X1 PRO机型怎么办？">X1 PRO机型怎么办？</a>
+
 <a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E9%9C%87%E6%83%8A%EF%BC%8C%E5%8E%9F%E6%9D%A5%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E7%9A%84%E5%B9%B3%E6%9D%BF%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9.docx" target="_blank" title="震惊，科大讯飞平板居然可以破解（软解教程）">震惊，科大讯飞平板居然可以破解（软解教程）</a>
-
-
 
 <a href="https://github.com/Alan-Star/alan-star.github.io/raw/master/%E5%B9%B3%E6%9D%BF%E7%A0%B4%E8%A7%A3%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E5%A4%A7%E5%B8%88.apk" target="_blank" title="平版破解大师">平版破解大师</a>
 
