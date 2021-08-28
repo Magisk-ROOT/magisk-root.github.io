@@ -77,12 +77,5 @@ github: Alan-Star issue评论
 
 
 ## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！  
-  
-    
-      
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>  
-###### _Total <span id="busuanzi_value_site_pv"></span> views._  
-###### _您是第<span id="busuanzi_value_site_uv"></span>个小伙伴._  
-###### _<span id="busuanzi_value_page_pv"></span> Hits._  
 
 
