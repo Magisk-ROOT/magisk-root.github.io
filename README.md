@@ -9,7 +9,7 @@
 
 #### TB-8X04F刷机包系列
 I.  TB-8X04F 9008线刷包。优点：脚本一键刷机，应用齐全,推荐下载
-<a href="https://pan.baidu.com/s/1-vPpIeziO8GyzxCKX1Km4A" target="_blank" title="百度云链接提取码: h2k2">百度云链接提取码: h2k2</a>  
+<a href="" target="_blank" title="百度云链接提取码: h2k2">百度云链接提取码: h2k2</a>  
 <a href="https://drive.google.com/file/d/1olprA6vzLFtjxfLyjDLF0NDvdITqaLS_/view?usp=sharing" target="_blank" title="谷歌云链接">谷歌云链接</a>
  
  教程:1.下载第一个刷机包,
@@ -76,6 +76,13 @@ github: Alan-Star issue评论
 本站仅提供技术爱好者学习交流！！
 
 
-## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！
+## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！  
+  
+    
+      
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>  
+###### _Total <span id="busuanzi_value_site_pv"></span> views._  
+###### _您是第<span id="busuanzi_value_site_uv"></span>个小伙伴._  
+###### _<span id="busuanzi_value_page_pv"></span> Hits._  
 
 
