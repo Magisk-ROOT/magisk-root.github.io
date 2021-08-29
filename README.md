@@ -78,6 +78,10 @@ github: Alan-Star issue评论
 
 邮箱：alanstar388@gmail.com  
 
+Bilibili：<a href="https://space.bilibili.com/481224375" target="_blank" title="原站长的Bilibili">原站长的Bilibili</a>  
+
+博客：<a href="https://uniflytek.blogspot.com/" target="_blank" title="点我访问官方博客">点我访问官方博客</a>  
+
 联系副站长：  
 
 邮箱：SuperSU-ROOT@outlook.com  
