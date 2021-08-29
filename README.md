@@ -61,7 +61,7 @@ II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9
 
 <a href="https://www.iflytek.com/index.html" target="_blank" title="平板异常卡顿怎么办">平板异常卡顿怎么办</a>
 
-<a href="https://dev.azure.com/HomeworkCLI/HomeworkCLI" target="_blank" title="怎么往平板里传多媒体文件？">平板异常卡顿怎么办</a>
+<a href="https://dev.azure.com/HomeworkCLI/HomeworkCLI" target="_blank" title="怎么往平板里传多媒体文件？">怎么往平板里传多媒体文件？</a>
 
 <a href="https://lyrylo.com/tb-8x04f-flash/" target="_blank" title="怎么进9008？">怎么进9008？</a>
 
