@@ -68,12 +68,17 @@ II.  LineageOS卡刷包。优点：内存占用小，速度快，搭载Android 9
 ## 下载时请检查网络配置是否正确
 
 
-联系站长：
+联系站长：  
 
-github: Alan-Star issue评论
+github: Alan-Star issue评论  
 
-邮箱：alanstar388@gmail.com
-本站仅提供技术爱好者学习交流！！
+邮箱：alanstar388@gmail.com  
+
+联系副站长：  
+
+邮箱：SuperSU-ROOT@outlook.com  
+
+本站仅提供技术爱好者学习交流！！  
 
 
 ## 本站站长没有参与任何破解研发，只是从网上收集了相关资源，所以不接受任何捐助！  
